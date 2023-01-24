@@ -1,6 +1,6 @@
 #### **CSCI 1300 CS1: Starting Computing: Homework 1**
 #### **Godley/Hoefer - Spring 2023**
-#### **Due: Friday, Jan 27th 2023 by 6:00pm MST**
+#### **Due: Sunday, Jan 29th 2023 by 6:00pm MST**
 
 <br/>
 
