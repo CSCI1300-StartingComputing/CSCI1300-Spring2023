@@ -332,4 +332,4 @@ Example output (The * next to a line indicates user input)
 
 
 # Deliverables for Recitation <a name="deliverables"></a>
-Complete the quiz on [Canvas](https://canvas.colorado.edu/courses/89853/quizzes/309352)
+Complete the quiz on [Canvas](https://canvas.colorado.edu/courses/89853/assignments/1618011)
