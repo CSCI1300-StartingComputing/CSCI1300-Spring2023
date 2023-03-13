@@ -1,0 +1,6 @@
+The Appalachian Trail|2180|464500
+The South West Coast Path|630|115000
+Continental Divide Trail|3100|457000
+Great Himalayan Trail|1056|289000
+The Colorado Trail|578|89000
+The Pacific Crest Trail|2650|824370

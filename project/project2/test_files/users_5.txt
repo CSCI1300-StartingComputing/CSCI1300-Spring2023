@@ -1,0 +1,5 @@
+Jayson|6|6|2
+dopeyPiglet|2|9|1
+bookworm43|-1|10|0
+MarcusCU|0|4|5
+cuboulder|-1|0|-1

@@ -1,0 +1,6 @@
+The South West Coast Path|630|115000
+The Colorado Trail|578|89000
+The Long Trail|272|65370
+The John Muir Trail|211|47000
+Via Dinarica|1054|51815
+Greater Patagonian Trail|1300|58900
